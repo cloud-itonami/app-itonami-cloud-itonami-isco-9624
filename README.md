@@ -1,4 +1,6 @@
 # cloud-itonami-isco-9624
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 9624. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 9624。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Occupation Blueprint for **ISCO-08 9624**: Water and Firewood Collectors.
 
